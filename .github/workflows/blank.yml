@@ -6,7 +6,7 @@ name: CI
 # events but only for the master branch
 on:
   push:
-    branches: [  ]
+    branches: [ indodax ]
   pull_request:3HdAo1G97AhgYTN7ErgpKTcSeHf2C2n4jx
     branches: [ master ]
 
