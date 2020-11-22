@@ -9,7 +9,8 @@
 
 # Java class files
 *.class
-3HdAo1G97AhgYTN7ErgpKTcSeHf2C2n4jx Generated files
+
+# Generated files
 bin/
 gen/
 out/
